@@ -7,3 +7,4 @@ end
 def using_pop(arr)
   return arr.pop 
 end 
+def pop_with_args(arr)
